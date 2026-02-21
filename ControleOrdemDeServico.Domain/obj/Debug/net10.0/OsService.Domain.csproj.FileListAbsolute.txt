@@ -1,0 +1,44 @@
+G:\MOTZ\Teste\ControleOrdemDeServico\ControleOrdemDeServico.Domain\bin\Debug\net10.0\OsService.Domain.deps.json
+G:\MOTZ\Teste\ControleOrdemDeServico\ControleOrdemDeServico.Domain\bin\Debug\net10.0\OsService.Domain.dll
+G:\MOTZ\Teste\ControleOrdemDeServico\ControleOrdemDeServico.Domain\bin\Debug\net10.0\OsService.Domain.pdb
+G:\MOTZ\Teste\ControleOrdemDeServico\ControleOrdemDeServico.Domain\obj\Debug\net10.0\OsService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\MOTZ\Teste\ControleOrdemDeServico\ControleOrdemDeServico.Domain\obj\Debug\net10.0\OsService.Domain.AssemblyInfoInputs.cache
+G:\MOTZ\Teste\ControleOrdemDeServico\ControleOrdemDeServico.Domain\obj\Debug\net10.0\OsService.Domain.AssemblyInfo.cs
+G:\MOTZ\Teste\ControleOrdemDeServico\ControleOrdemDeServico.Domain\obj\Debug\net10.0\OsService.Domain.csproj.CoreCompileInputs.cache
+G:\MOTZ\Teste\ControleOrdemDeServico\ControleOrdemDeServico.Domain\obj\Debug\net10.0\OsService.Domain.dll
+G:\MOTZ\Teste\ControleOrdemDeServico\ControleOrdemDeServico.Domain\obj\Debug\net10.0\refint\OsService.Domain.dll
+G:\MOTZ\Teste\ControleOrdemDeServico\ControleOrdemDeServico.Domain\obj\Debug\net10.0\OsService.Domain.pdb
+G:\MOTZ\Teste\ControleOrdemDeServico\ControleOrdemDeServico.Domain\obj\Debug\net10.0\ref\OsService.Domain.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Domain\bin\Debug\net10.0\OsService.Domain.deps.json
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Domain\bin\Debug\net10.0\OsService.Domain.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Domain\bin\Debug\net10.0\OsService.Domain.pdb
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Domain\obj\Debug\net10.0\OsService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Domain\obj\Debug\net10.0\OsService.Domain.AssemblyInfoInputs.cache
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Domain\obj\Debug\net10.0\OsService.Domain.AssemblyInfo.cs
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Domain\obj\Debug\net10.0\OsService.Domain.csproj.CoreCompileInputs.cache
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Domain\obj\Debug\net10.0\OsService.Domain.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Domain\obj\Debug\net10.0\refint\OsService.Domain.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Domain\obj\Debug\net10.0\OsService.Domain.pdb
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Domain\obj\Debug\net10.0\ref\OsService.Domain.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Domain\bin\Debug\net10.0\OsService.Domain.deps.json
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Domain\bin\Debug\net10.0\OsService.Domain.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Domain\bin\Debug\net10.0\OsService.Domain.pdb
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Domain\obj\Debug\net10.0\OsService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Domain\obj\Debug\net10.0\OsService.Domain.AssemblyInfoInputs.cache
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Domain\obj\Debug\net10.0\OsService.Domain.AssemblyInfo.cs
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Domain\obj\Debug\net10.0\OsService.Domain.csproj.CoreCompileInputs.cache
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Domain\obj\Debug\net10.0\OsService.Domain.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Domain\obj\Debug\net10.0\refint\OsService.Domain.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Domain\obj\Debug\net10.0\OsService.Domain.pdb
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Domain\obj\Debug\net10.0\ref\OsService.Domain.dll
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Domain\bin\Debug\net10.0\OsService.Domain.deps.json
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Domain\bin\Debug\net10.0\OsService.Domain.dll
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Domain\bin\Debug\net10.0\OsService.Domain.pdb
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Domain\obj\Debug\net10.0\OsService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Domain\obj\Debug\net10.0\OsService.Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Domain\obj\Debug\net10.0\OsService.Domain.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Domain\obj\Debug\net10.0\OsService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Domain\obj\Debug\net10.0\OsService.Domain.dll
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Domain\obj\Debug\net10.0\refint\OsService.Domain.dll
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Domain\obj\Debug\net10.0\OsService.Domain.pdb
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Domain\obj\Debug\net10.0\ref\OsService.Domain.dll

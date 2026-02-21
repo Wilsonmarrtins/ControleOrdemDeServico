@@ -1,0 +1,27 @@
+2026-02-21T18:10:02.2631513+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.8.2+3f3895006fbd911d9b09cf9cafebc5f6cb7dd10d
+2026-02-21T18:10:02.2719319+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2026-02-21T18:10:02.2728150+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2026-02-21T18:10:02.2728197+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 18:10:02.246
+2026-02-21T18:10:02.2728898+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 13316
+2026-02-21T18:10:02.2729162+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: win-x64 - .NET 10.0.3
+2026-02-21T18:10:02.2729323+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.3\System.Private.CoreLib.dll
+2026-02-21T18:10:02.2729414+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2026-02-21T18:10:02.2729991+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Tests\bin\Debug\net10.0\OsService.Tests.dll
+2026-02-21T18:10:02.2731487+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Tests\bin\Debug\net10.0\Log --results-directory D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\TestResults --client-port 52238'
+2026-02-21T18:10:02.2737860+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2026-02-21T18:10:02.2885393+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2026-02-21T18:10:02.2997718+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable: 
+2026-02-21T18:10:02.4655734+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: '30ea7c6e-dd24-4152-a360-1387158cd41d' Version: '3.0.1' DisplayName: 'xUnit.net v3 Microsoft.Testing.Platform test framework' Description: 'xUnit.net v3 Microsoft.Testing.Platform test framework'
+2026-02-21T18:10:02.4685506+00:00 xUnit.net INFORMATION xUnit.net v3 In-Process Runner v3.0.1+9214bef154 (64-bit .NET 10.0.3)
+2026-02-21T18:10:02.5024398+00:00 xUnit.net INFORMATION   Discovering: OsService.Tests
+2026-02-21T18:10:02.5332271+00:00 xUnit.net INFORMATION   Discovered:  OsService.Tests
+2026-02-21T18:10:02.5487057+00:00 xUnit.net INFORMATION   Starting:    OsService.Tests
+2026-02-21T18:10:38.9866124+00:00 xUnit.net ERROR     OsService.Tests.WebTests.GetWebResourceRootReturnsOkStatusCode [FAIL]
+2026-02-21T18:10:38.9870035+00:00 xUnit.net INFORMATION       System.TimeoutException : The operation has timed out.
+2026-02-21T18:10:38.9873218+00:00 xUnit.net INFORMATION       Stack Trace:
+2026-02-21T18:10:38.9876274+00:00 xUnit.net INFORMATION         D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Tests\WebTests.cs(30,0): at OsService.Tests.WebTests.GetWebResourceRootReturnsOkStatusCode()
+2026-02-21T18:10:38.9876463+00:00 xUnit.net INFORMATION         D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Tests\WebTests.cs(38,0): at OsService.Tests.WebTests.GetWebResourceRootReturnsOkStatusCode()
+2026-02-21T18:10:38.9876487+00:00 xUnit.net INFORMATION         --- End of stack trace from previous location ---
+2026-02-21T18:10:38.9931642+00:00 xUnit.net INFORMATION   Finished:    OsService.Tests
+2026-02-21T18:10:38.9972042+00:00 xUnit.net INFORMATION === TEST EXECUTION SUMMARY ===
+2026-02-21T18:10:39.0010968+00:00 xUnit.net INFORMATION    OsService.Tests  Total: 9, Errors: 0, Failed: 1, Skipped: 0, Not Run: 0, Time: 36,448s, ID: '3a69e5e3210587dadd903d1ca875c3d79886da11ead3b4ca7b0532561f9b0a39'

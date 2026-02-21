@@ -1,0 +1,330 @@
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\appsettings.Development.json
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\appsettings.json
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OsService.Web.staticwebassets.runtime.json
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OsService.Web.staticwebassets.endpoints.json
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OsService.Web.exe
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OsService.Web.deps.json
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OsService.Web.runtimeconfig.json
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OsService.Web.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OsService.Web.pdb
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\Microsoft.Extensions.AmbientMetadata.Application.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\Microsoft.Extensions.Compliance.Abstractions.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.AutoActivation.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\Microsoft.Extensions.Diagnostics.ExceptionSummarization.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\Microsoft.Extensions.Http.Diagnostics.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\Microsoft.Extensions.Http.Resilience.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\Microsoft.Extensions.Resilience.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\Microsoft.Extensions.ServiceDiscovery.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\Microsoft.Extensions.ServiceDiscovery.Abstractions.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\Microsoft.Extensions.Telemetry.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\Microsoft.Extensions.Telemetry.Abstractions.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OpenTelemetry.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OpenTelemetry.Api.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OpenTelemetry.Extensions.Hosting.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OpenTelemetry.Instrumentation.Http.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OpenTelemetry.Instrumentation.Runtime.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\Polly.Core.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\Polly.Extensions.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\Polly.RateLimiting.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OsService.ServiceDefaults.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OsService.ServiceDefaults.pdb
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\EmbeddedAttribute.cs
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\ValidatableTypeAttribute.cs
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\OsService.Web.csproj.AssemblyReference.cache
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\OsService.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\OsService.Web.AssemblyInfoInputs.cache
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\OsService.Web.AssemblyInfo.cs
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\OsService.Web.csproj.CoreCompileInputs.cache
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\OsService.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\scopedcss\bundle\OsService.Web.styles.css
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\scopedcss\projectbundle\OsService.Web.bundle.scp.css
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\umd9p4u71r-{0}-0nfn7diltz-0nfn7diltz.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\fu8f1fro8l-{0}-sejl45xvog-sejl45xvog.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\yecr7d0omx-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\tmdutvt23a-{0}-xvp3kq03qx-xvp3kq03qx.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\hopw0w30d9-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\7y6z2p9rbt-{0}-22vffe00uq-22vffe00uq.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\szf21p7v2n-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\d6y7sp1o6r-{0}-qesaa3a1fm-qesaa3a1fm.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\i8dt7sewbh-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\60l7hnvnfu-{0}-tmc1g35s3z-tmc1g35s3z.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\ypterbau7z-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\zwpdjyrusg-{0}-rxsg74s51o-rxsg74s51o.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\4z2zysj3pl-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\ojvvtja1l8-{0}-q9ht133ko3-q9ht133ko3.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\1y7hfvgbde-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\mjsdk9yhu2-{0}-gye83jo8yx-gye83jo8yx.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\qx0u8g3916-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\kozaxi4wuy-{0}-wl58j5mj3v-wl58j5mj3v.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\asvd69f9tw-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\pauu80fu7f-{0}-d4r6k3f320-d4r6k3f320.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\jeyo7g7n1n-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\hhxhih36ae-{0}-keugtjm085-keugtjm085.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\wlhb81pud0-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\uzw5y3p3oj-{0}-zub09dkrxp-zub09dkrxp.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\pgr6ccd0qk-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\jjweb1n7ov-{0}-43atpzeawx-43atpzeawx.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\p8yfjynoi3-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\b35jf4oosk-{0}-ynyaa8k90p-ynyaa8k90p.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\7fqnh25160-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\bv7euxuipu-{0}-c63t5i9ira-c63t5i9ira.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\yv6ckxoj1m-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\iq2pmh9j2x-{0}-l7swvysvxu-l7swvysvxu.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\1pvt5hak6d-{0}-uolu5vjpxm-uolu5vjpxm.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\ayhgid4x4e-{0}-yy5ysst9qv-yy5ysst9qv.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\zbahb55zeo-{0}-ak578allnp-ak578allnp.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\her92we51s-{0}-vd6ny1d6ew-vd6ny1d6ew.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\gcb9lipqxd-{0}-xjjpdmrpzf-xjjpdmrpzf.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\eqtb034ujw-{0}-0ipfkw11fi-0ipfkw11fi.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\4l96zpoxcn-{0}-mn0ee1g2pl-mn0ee1g2pl.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\nc6rrtqi7u-{0}-g2mxibibnu-g2mxibibnu.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\yic31rpth9-{0}-hi7c92hs1b-hi7c92hs1b.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\7peik52inh-{0}-rc6gczpm15-rc6gczpm15.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\d84fe1ldni-{0}-4stp2jpc1r-4stp2jpc1r.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\frchr8mirb-{0}-ax6tuj8tun-ax6tuj8tun.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\ty2ugebat3-{0}-zr4b1gdhaw-zr4b1gdhaw.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\vwjjqweltl-{0}-7oqt8lg862-7oqt8lg862.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\7429frrwwf-{0}-7oqt8lg862-7oqt8lg862.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\staticwebassets.build.json
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\staticwebassets.development.json
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\swae.build.ex.cache
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\OsServic.06B2B0F1.Up2Date
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\OsService.Web.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\refint\OsService.Web.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\OsService.Web.pdb
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\OsService.Web.genruntimeconfig.cache
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\ref\OsService.Web.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\lpstekoww5-{0}-fvs2529m08-fvs2529m08.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\1fzbks2vt3-{0}-xjegr3icri-xjegr3icri.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\appsettings.Development.json
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\appsettings.json
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OsService.Web.staticwebassets.endpoints.json
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OsService.Web.staticwebassets.runtime.json
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OsService.Web.exe
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OsService.Web.deps.json
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OsService.Web.runtimeconfig.json
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OsService.Web.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OsService.Web.pdb
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\Microsoft.Extensions.AmbientMetadata.Application.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\Microsoft.Extensions.Compliance.Abstractions.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.AutoActivation.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\Microsoft.Extensions.Diagnostics.ExceptionSummarization.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\Microsoft.Extensions.Http.Diagnostics.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\Microsoft.Extensions.Http.Resilience.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\Microsoft.Extensions.Resilience.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\Microsoft.Extensions.ServiceDiscovery.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\Microsoft.Extensions.ServiceDiscovery.Abstractions.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\Microsoft.Extensions.Telemetry.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\Microsoft.Extensions.Telemetry.Abstractions.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OpenTelemetry.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OpenTelemetry.Api.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OpenTelemetry.Extensions.Hosting.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OpenTelemetry.Instrumentation.Http.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OpenTelemetry.Instrumentation.Runtime.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\Polly.Core.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\Polly.Extensions.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\Polly.RateLimiting.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OsService.ServiceDefaults.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OsService.ServiceDefaults.pdb
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\EmbeddedAttribute.cs
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\ValidatableTypeAttribute.cs
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\OsService.Web.csproj.AssemblyReference.cache
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\OsService.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\OsService.Web.AssemblyInfoInputs.cache
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\OsService.Web.AssemblyInfo.cs
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\OsService.Web.csproj.CoreCompileInputs.cache
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\OsService.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\scopedcss\bundle\OsService.Web.styles.css
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\scopedcss\projectbundle\OsService.Web.bundle.scp.css
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\umd9p4u71r-{0}-0nfn7diltz-0nfn7diltz.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\lpstekoww5-{0}-fvs2529m08-fvs2529m08.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\1fzbks2vt3-{0}-xjegr3icri-xjegr3icri.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\fu8f1fro8l-{0}-sejl45xvog-sejl45xvog.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\yecr7d0omx-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\tmdutvt23a-{0}-xvp3kq03qx-xvp3kq03qx.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\hopw0w30d9-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\7y6z2p9rbt-{0}-22vffe00uq-22vffe00uq.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\szf21p7v2n-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\d6y7sp1o6r-{0}-qesaa3a1fm-qesaa3a1fm.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\i8dt7sewbh-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\60l7hnvnfu-{0}-tmc1g35s3z-tmc1g35s3z.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\ypterbau7z-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\zwpdjyrusg-{0}-rxsg74s51o-rxsg74s51o.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\4z2zysj3pl-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\ojvvtja1l8-{0}-q9ht133ko3-q9ht133ko3.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\1y7hfvgbde-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\mjsdk9yhu2-{0}-gye83jo8yx-gye83jo8yx.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\qx0u8g3916-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\kozaxi4wuy-{0}-wl58j5mj3v-wl58j5mj3v.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\asvd69f9tw-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\pauu80fu7f-{0}-d4r6k3f320-d4r6k3f320.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\jeyo7g7n1n-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\hhxhih36ae-{0}-keugtjm085-keugtjm085.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\wlhb81pud0-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\uzw5y3p3oj-{0}-zub09dkrxp-zub09dkrxp.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\pgr6ccd0qk-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\jjweb1n7ov-{0}-43atpzeawx-43atpzeawx.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\p8yfjynoi3-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\b35jf4oosk-{0}-ynyaa8k90p-ynyaa8k90p.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\7fqnh25160-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\bv7euxuipu-{0}-c63t5i9ira-c63t5i9ira.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\yv6ckxoj1m-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\iq2pmh9j2x-{0}-l7swvysvxu-l7swvysvxu.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\1pvt5hak6d-{0}-uolu5vjpxm-uolu5vjpxm.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\ayhgid4x4e-{0}-yy5ysst9qv-yy5ysst9qv.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\zbahb55zeo-{0}-ak578allnp-ak578allnp.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\her92we51s-{0}-vd6ny1d6ew-vd6ny1d6ew.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\gcb9lipqxd-{0}-xjjpdmrpzf-xjjpdmrpzf.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\eqtb034ujw-{0}-0ipfkw11fi-0ipfkw11fi.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\4l96zpoxcn-{0}-mn0ee1g2pl-mn0ee1g2pl.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\nc6rrtqi7u-{0}-g2mxibibnu-g2mxibibnu.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\yic31rpth9-{0}-hi7c92hs1b-hi7c92hs1b.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\7peik52inh-{0}-rc6gczpm15-rc6gczpm15.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\d84fe1ldni-{0}-4stp2jpc1r-4stp2jpc1r.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\frchr8mirb-{0}-ax6tuj8tun-ax6tuj8tun.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\ty2ugebat3-{0}-zr4b1gdhaw-zr4b1gdhaw.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\vwjjqweltl-{0}-7oqt8lg862-7oqt8lg862.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\7429frrwwf-{0}-7oqt8lg862-7oqt8lg862.gz
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\staticwebassets.build.json
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\staticwebassets.development.json
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\swae.build.ex.cache
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\OsServic.06B2B0F1.Up2Date
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\OsService.Web.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\refint\OsService.Web.dll
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\OsService.Web.pdb
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\OsService.Web.genruntimeconfig.cache
+D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\ref\OsService.Web.dll
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\appsettings.json
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OsService.Web.staticwebassets.runtime.json
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OsService.Web.staticwebassets.endpoints.json
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OsService.Web.exe
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OsService.Web.deps.json
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OsService.Web.runtimeconfig.json
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OsService.Web.dll
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OsService.Web.pdb
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\Microsoft.Extensions.AmbientMetadata.Application.dll
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\Microsoft.Extensions.Compliance.Abstractions.dll
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.AutoActivation.dll
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\Microsoft.Extensions.Diagnostics.ExceptionSummarization.dll
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\Microsoft.Extensions.Http.Diagnostics.dll
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\Microsoft.Extensions.Http.Resilience.dll
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\Microsoft.Extensions.Resilience.dll
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\Microsoft.Extensions.ServiceDiscovery.dll
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\Microsoft.Extensions.ServiceDiscovery.Abstractions.dll
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\Microsoft.Extensions.Telemetry.dll
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\Microsoft.Extensions.Telemetry.Abstractions.dll
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OpenTelemetry.dll
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OpenTelemetry.Api.dll
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OpenTelemetry.Extensions.Hosting.dll
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OpenTelemetry.Instrumentation.Http.dll
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OpenTelemetry.Instrumentation.Runtime.dll
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\Polly.Core.dll
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\Polly.Extensions.dll
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\Polly.RateLimiting.dll
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OsService.ServiceDefaults.dll
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\bin\Debug\net10.0\OsService.ServiceDefaults.pdb
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\EmbeddedAttribute.cs
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\ValidatableTypeAttribute.cs
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\OsService.Web.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\OsService.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\OsService.Web.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\OsService.Web.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\OsService.Web.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\OsService.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\scopedcss\bundle\OsService.Web.styles.css
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\scopedcss\projectbundle\OsService.Web.bundle.scp.css
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\umd9p4u71r-{0}-0nfn7diltz-0nfn7diltz.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\lpstekoww5-{0}-ugvlddnjpn-ugvlddnjpn.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\1fzbks2vt3-{0}-xjegr3icri-xjegr3icri.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\fu8f1fro8l-{0}-sejl45xvog-sejl45xvog.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\yecr7d0omx-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\tmdutvt23a-{0}-xvp3kq03qx-xvp3kq03qx.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\hopw0w30d9-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\7y6z2p9rbt-{0}-22vffe00uq-22vffe00uq.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\szf21p7v2n-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\d6y7sp1o6r-{0}-qesaa3a1fm-qesaa3a1fm.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\i8dt7sewbh-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\60l7hnvnfu-{0}-tmc1g35s3z-tmc1g35s3z.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\ypterbau7z-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\zwpdjyrusg-{0}-rxsg74s51o-rxsg74s51o.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\4z2zysj3pl-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\ojvvtja1l8-{0}-q9ht133ko3-q9ht133ko3.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\1y7hfvgbde-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\mjsdk9yhu2-{0}-gye83jo8yx-gye83jo8yx.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\qx0u8g3916-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\kozaxi4wuy-{0}-wl58j5mj3v-wl58j5mj3v.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\asvd69f9tw-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\pauu80fu7f-{0}-d4r6k3f320-d4r6k3f320.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\jeyo7g7n1n-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\hhxhih36ae-{0}-keugtjm085-keugtjm085.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\wlhb81pud0-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\uzw5y3p3oj-{0}-zub09dkrxp-zub09dkrxp.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\pgr6ccd0qk-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\jjweb1n7ov-{0}-43atpzeawx-43atpzeawx.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\p8yfjynoi3-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\b35jf4oosk-{0}-ynyaa8k90p-ynyaa8k90p.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\7fqnh25160-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\bv7euxuipu-{0}-c63t5i9ira-c63t5i9ira.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\yv6ckxoj1m-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\iq2pmh9j2x-{0}-l7swvysvxu-l7swvysvxu.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\1pvt5hak6d-{0}-uolu5vjpxm-uolu5vjpxm.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\ayhgid4x4e-{0}-yy5ysst9qv-yy5ysst9qv.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\zbahb55zeo-{0}-ak578allnp-ak578allnp.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\her92we51s-{0}-vd6ny1d6ew-vd6ny1d6ew.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\gcb9lipqxd-{0}-xjjpdmrpzf-xjjpdmrpzf.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\eqtb034ujw-{0}-0ipfkw11fi-0ipfkw11fi.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\4l96zpoxcn-{0}-mn0ee1g2pl-mn0ee1g2pl.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\nc6rrtqi7u-{0}-g2mxibibnu-g2mxibibnu.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\yic31rpth9-{0}-hi7c92hs1b-hi7c92hs1b.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\7peik52inh-{0}-rc6gczpm15-rc6gczpm15.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\d84fe1ldni-{0}-4stp2jpc1r-4stp2jpc1r.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\frchr8mirb-{0}-ax6tuj8tun-ax6tuj8tun.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\ty2ugebat3-{0}-zr4b1gdhaw-zr4b1gdhaw.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\vwjjqweltl-{0}-7oqt8lg862-7oqt8lg862.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\compressed\7429frrwwf-{0}-7oqt8lg862-7oqt8lg862.gz
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\OsServic.06B2B0F1.Up2Date
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\OsService.Web.dll
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\refint\OsService.Web.dll
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\OsService.Web.pdb
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\OsService.Web.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\YVORY\ControleOrdemDeServico\ControleOrdemDeServico.Web\obj\Debug\net10.0\ref\OsService.Web.dll

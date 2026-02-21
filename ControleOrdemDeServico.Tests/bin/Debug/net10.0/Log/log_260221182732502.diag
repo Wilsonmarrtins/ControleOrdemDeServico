@@ -1,0 +1,163 @@
+2026-02-21T18:27:32.5089731+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.8.2+3f3895006fbd911d9b09cf9cafebc5f6cb7dd10d
+2026-02-21T18:27:32.5202134+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2026-02-21T18:27:32.5210373+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2026-02-21T18:27:32.5210430+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 18:27:32.488
+2026-02-21T18:27:32.5211266+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 5208
+2026-02-21T18:27:32.5211520+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: win-x64 - .NET 10.0.3
+2026-02-21T18:27:32.5211683+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.3\System.Private.CoreLib.dll
+2026-02-21T18:27:32.5211809+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2026-02-21T18:27:32.5212416+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Tests\bin\Debug\net10.0\OsService.Tests.dll
+2026-02-21T18:27:32.5213938+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Tests\bin\Debug\net10.0\Log --results-directory D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\TestResults --client-port 53588'
+2026-02-21T18:27:32.5222024+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2026-02-21T18:27:32.5410712+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2026-02-21T18:27:32.5563776+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable: 
+2026-02-21T18:27:32.7875122+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: '30ea7c6e-dd24-4152-a360-1387158cd41d' Version: '3.0.1' DisplayName: 'xUnit.net v3 Microsoft.Testing.Platform test framework' Description: 'xUnit.net v3 Microsoft.Testing.Platform test framework'
+2026-02-21T18:27:32.7925102+00:00 xUnit.net INFORMATION xUnit.net v3 In-Process Runner v3.0.1+9214bef154 (64-bit .NET 10.0.3)
+2026-02-21T18:27:32.8477327+00:00 xUnit.net INFORMATION   Discovering: OsService.Tests
+2026-02-21T18:27:32.9037128+00:00 xUnit.net INFORMATION   Discovered:  OsService.Tests
+2026-02-21T18:27:32.9291409+00:00 xUnit.net INFORMATION   Starting:    OsService.Tests
+2026-02-21T18:27:33.0272766+00:00 xUnit.net WARNING     OsService.Tests.WebTests.GetWebResourceRootReturnsOkStatusCode [SKIP]
+2026-02-21T18:27:33.0276105+00:00 xUnit.net INFORMATION       Teste de integração Aspire. Habilitar quando for rodar integration tests com AppHost.
+2026-02-21T18:27:33.3259695+00:00 xUnit.net ERROR     OsService.Tests.Integration.Customers.CustomersControllerTests.Post_Customers_WhenValid_Returns201AndId [FAIL]
+2026-02-21T18:27:33.3267807+00:00 xUnit.net INFORMATION       System.AggregateException : One or more errors occurred. (Property CliPath: The path to the DCP executable used for Aspire orchestration is required.; Property DashboardPath: The path to the Aspire Dashboard binaries is missing.)
+2026-02-21T18:27:33.3268022+00:00 xUnit.net INFORMATION       ---- Microsoft.Extensions.Options.OptionsValidationException : Property CliPath: The path to the DCP executable used for Aspire orchestration is required.; Property DashboardPath: The path to the Aspire Dashboard binaries is missing.
+2026-02-21T18:27:33.3274900+00:00 xUnit.net INFORMATION       Stack Trace:
+2026-02-21T18:27:33.3281377+00:00 xUnit.net INFORMATION            at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+2026-02-21T18:27:33.3281633+00:00 xUnit.net INFORMATION            at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+2026-02-21T18:27:33.3281675+00:00 xUnit.net INFORMATION            at System.Threading.Tasks.Task.Wait()
+2026-02-21T18:27:33.3281863+00:00 xUnit.net INFORMATION         /_/src/Aspire.Hosting/DistributedApplication.cs(471,0): at Aspire.Hosting.DistributedApplication.Run()
+2026-02-21T18:27:33.3281957+00:00 xUnit.net INFORMATION         D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.AppHost\AppHost.cs(12,0): at Program.<Main>$(String[] args)
+2026-02-21T18:27:33.3282017+00:00 xUnit.net INFORMATION            at System.Reflection.MethodBaseInvoker.InterpretedInvoke_Method(Object obj, IntPtr* args)
+2026-02-21T18:27:33.3282074+00:00 xUnit.net INFORMATION            at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+2026-02-21T18:27:33.3282084+00:00 xUnit.net INFORMATION         --- End of stack trace from previous location ---
+2026-02-21T18:27:33.3282284+00:00 xUnit.net INFORMATION            at Microsoft.AspNetCore.Mvc.Testing.DeferredHostBuilder.DeferredHost.StartAsync(CancellationToken cancellationToken)
+2026-02-21T18:27:33.3282326+00:00 xUnit.net INFORMATION            at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Start(IHost host)
+2026-02-21T18:27:33.3282369+00:00 xUnit.net INFORMATION            at Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactory`1.CreateHost(IHostBuilder builder)
+2026-02-21T18:27:33.3282417+00:00 xUnit.net INFORMATION            at Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactory`1.ConfigureHostBuilder(IHostBuilder hostBuilder)
+2026-02-21T18:27:33.3282454+00:00 xUnit.net INFORMATION            at Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactory`1.StartServer()
+2026-02-21T18:27:33.3282505+00:00 xUnit.net INFORMATION            at Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactory`1.CreateDefaultClient(DelegatingHandler[] handlers)
+2026-02-21T18:27:33.3282562+00:00 xUnit.net INFORMATION            at Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactory`1.CreateDefaultClient(Uri baseAddress, DelegatingHandler[] handlers)
+2026-02-21T18:27:33.3282614+00:00 xUnit.net INFORMATION            at Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactory`1.CreateClient(WebApplicationFactoryClientOptions options)
+2026-02-21T18:27:33.3282660+00:00 xUnit.net INFORMATION            at Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactory`1.CreateClient()
+2026-02-21T18:27:33.3282770+00:00 xUnit.net INFORMATION         D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Tests\Integration\Customers\CustomersControllerTests.cs(15,0): at OsService.Tests.Integration.Customers.CustomersControllerTests..ctor(ApiFactory factory)
+2026-02-21T18:27:33.3282822+00:00 xUnit.net INFORMATION            at System.Reflection.MethodBaseInvoker.InterpretedInvoke_Constructor(Object obj, IntPtr* args)
+2026-02-21T18:27:33.3282879+00:00 xUnit.net INFORMATION            at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+2026-02-21T18:27:33.3282886+00:00 xUnit.net INFORMATION         ----- Inner Stack Trace -----
+2026-02-21T18:27:33.3282921+00:00 xUnit.net INFORMATION            at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+2026-02-21T18:27:33.3282953+00:00 xUnit.net INFORMATION            at Microsoft.Extensions.Options.UnnamedOptionsManager`1.get_Value()
+2026-02-21T18:27:33.3283007+00:00 xUnit.net INFORMATION         /_/src/Aspire.Hosting/Dcp/DcpNameGenerator.cs(77,0): at Aspire.Hosting.Dcp.DcpNameGenerator.GetExecutableName(IResource project)
+2026-02-21T18:27:33.3283052+00:00 xUnit.net INFORMATION         /_/src/Aspire.Hosting/Dcp/DcpNameGenerator.cs(51,0): at Aspire.Hosting.Dcp.DcpNameGenerator.EnsureDcpInstancesPopulated(IResource resource)
+2026-02-21T18:27:33.3283121+00:00 xUnit.net INFORMATION         /_/src/Aspire.Hosting/BuiltInDistributedApplicationEventSubscriptionHandlers.cs(35,0): at BuiltInDistributedApplicationEventSubscriptionHandlers.InitializeDcpAnnotations(BeforeStartEvent beforeStartEvent, CancellationToken _)
+2026-02-21T18:27:33.3283176+00:00 xUnit.net INFORMATION         /_/src/Aspire.Hosting/Eventing/DistributedApplicationEventing.cs(82,0): at Aspire.Hosting.Eventing.DistributedApplicationEventing.<>c__DisplayClass4_0`1.<<Subscribe>b__0>d.MoveNext()
+2026-02-21T18:27:33.3283196+00:00 xUnit.net INFORMATION         --- End of stack trace from previous location ---
+2026-02-21T18:27:33.3283251+00:00 xUnit.net INFORMATION         /_/src/Aspire.Hosting/Eventing/DistributedApplicationEventing.cs(69,0): at Aspire.Hosting.Eventing.DistributedApplicationEventing.PublishAsync[T](T event, EventDispatchBehavior dispatchBehavior, CancellationToken cancellationToken)
+2026-02-21T18:27:33.3283302+00:00 xUnit.net INFORMATION         /_/src/Aspire.Hosting/DistributedApplication.cs(483,0): at Aspire.Hosting.DistributedApplication.ExecuteBeforeStartHooksAsync(CancellationToken cancellationToken)
+2026-02-21T18:27:33.3283357+00:00 xUnit.net INFORMATION         /_/src/Aspire.Hosting/DistributedApplication.cs(440,0): at Aspire.Hosting.DistributedApplication.RunAsync(CancellationToken cancellationToken)
+2026-02-21T18:27:33.3288642+00:00 xUnit.net ERROR     OsService.Tests.Integration.ServiceOrders.ServiceOrdersControllerTests.Post_ServiceOrders_WhenCustomerExists_Returns201 [FAIL]
+2026-02-21T18:27:33.3288772+00:00 xUnit.net INFORMATION       System.AggregateException : One or more errors occurred. (Property CliPath: The path to the DCP executable used for Aspire orchestration is required.; Property DashboardPath: The path to the Aspire Dashboard binaries is missing.)
+2026-02-21T18:27:33.3288857+00:00 xUnit.net INFORMATION       ---- Microsoft.Extensions.Options.OptionsValidationException : Property CliPath: The path to the DCP executable used for Aspire orchestration is required.; Property DashboardPath: The path to the Aspire Dashboard binaries is missing.
+2026-02-21T18:27:33.3289136+00:00 xUnit.net INFORMATION       Stack Trace:
+2026-02-21T18:27:33.3289307+00:00 xUnit.net INFORMATION            at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+2026-02-21T18:27:33.3289361+00:00 xUnit.net INFORMATION            at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+2026-02-21T18:27:33.3289385+00:00 xUnit.net INFORMATION            at System.Threading.Tasks.Task.Wait()
+2026-02-21T18:27:33.3289461+00:00 xUnit.net INFORMATION         /_/src/Aspire.Hosting/DistributedApplication.cs(471,0): at Aspire.Hosting.DistributedApplication.Run()
+2026-02-21T18:27:33.3289555+00:00 xUnit.net INFORMATION         D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.AppHost\AppHost.cs(12,0): at Program.<Main>$(String[] args)
+2026-02-21T18:27:33.3289601+00:00 xUnit.net INFORMATION            at System.Reflection.MethodBaseInvoker.InterpretedInvoke_Method(Object obj, IntPtr* args)
+2026-02-21T18:27:33.3289659+00:00 xUnit.net INFORMATION            at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+2026-02-21T18:27:33.3289669+00:00 xUnit.net INFORMATION         --- End of stack trace from previous location ---
+2026-02-21T18:27:33.3289721+00:00 xUnit.net INFORMATION            at Microsoft.AspNetCore.Mvc.Testing.DeferredHostBuilder.DeferredHost.StartAsync(CancellationToken cancellationToken)
+2026-02-21T18:27:33.3289762+00:00 xUnit.net INFORMATION            at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Start(IHost host)
+2026-02-21T18:27:33.3289806+00:00 xUnit.net INFORMATION            at Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactory`1.CreateHost(IHostBuilder builder)
+2026-02-21T18:27:33.3289856+00:00 xUnit.net INFORMATION            at Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactory`1.ConfigureHostBuilder(IHostBuilder hostBuilder)
+2026-02-21T18:27:33.3289892+00:00 xUnit.net INFORMATION            at Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactory`1.StartServer()
+2026-02-21T18:27:33.3289952+00:00 xUnit.net INFORMATION            at Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactory`1.CreateDefaultClient(DelegatingHandler[] handlers)
+2026-02-21T18:27:33.3290010+00:00 xUnit.net INFORMATION            at Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactory`1.CreateDefaultClient(Uri baseAddress, DelegatingHandler[] handlers)
+2026-02-21T18:27:33.3290061+00:00 xUnit.net INFORMATION            at Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactory`1.CreateClient(WebApplicationFactoryClientOptions options)
+2026-02-21T18:27:33.3290099+00:00 xUnit.net INFORMATION            at Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactory`1.CreateClient()
+2026-02-21T18:27:33.3290204+00:00 xUnit.net INFORMATION         D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Tests\Integration\ServiceOrders\ServiceOrdersControllerTests.cs(19,0): at OsService.Tests.Integration.ServiceOrders.ServiceOrdersControllerTests..ctor(ApiFactory factory)
+2026-02-21T18:27:33.3290252+00:00 xUnit.net INFORMATION            at System.Reflection.MethodBaseInvoker.InterpretedInvoke_Constructor(Object obj, IntPtr* args)
+2026-02-21T18:27:33.3290307+00:00 xUnit.net INFORMATION            at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+2026-02-21T18:27:33.3290317+00:00 xUnit.net INFORMATION         ----- Inner Stack Trace -----
+2026-02-21T18:27:33.3290362+00:00 xUnit.net INFORMATION            at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+2026-02-21T18:27:33.3290399+00:00 xUnit.net INFORMATION            at Microsoft.Extensions.Options.UnnamedOptionsManager`1.get_Value()
+2026-02-21T18:27:33.3290444+00:00 xUnit.net INFORMATION         /_/src/Aspire.Hosting/Dcp/DcpNameGenerator.cs(77,0): at Aspire.Hosting.Dcp.DcpNameGenerator.GetExecutableName(IResource project)
+2026-02-21T18:27:33.3290490+00:00 xUnit.net INFORMATION         /_/src/Aspire.Hosting/Dcp/DcpNameGenerator.cs(51,0): at Aspire.Hosting.Dcp.DcpNameGenerator.EnsureDcpInstancesPopulated(IResource resource)
+2026-02-21T18:27:33.3290556+00:00 xUnit.net INFORMATION         /_/src/Aspire.Hosting/BuiltInDistributedApplicationEventSubscriptionHandlers.cs(35,0): at BuiltInDistributedApplicationEventSubscriptionHandlers.InitializeDcpAnnotations(BeforeStartEvent beforeStartEvent, CancellationToken _)
+2026-02-21T18:27:33.3290619+00:00 xUnit.net INFORMATION         /_/src/Aspire.Hosting/Eventing/DistributedApplicationEventing.cs(82,0): at Aspire.Hosting.Eventing.DistributedApplicationEventing.<>c__DisplayClass4_0`1.<<Subscribe>b__0>d.MoveNext()
+2026-02-21T18:27:33.3290628+00:00 xUnit.net INFORMATION         --- End of stack trace from previous location ---
+2026-02-21T18:27:33.3290680+00:00 xUnit.net INFORMATION         /_/src/Aspire.Hosting/Eventing/DistributedApplicationEventing.cs(69,0): at Aspire.Hosting.Eventing.DistributedApplicationEventing.PublishAsync[T](T event, EventDispatchBehavior dispatchBehavior, CancellationToken cancellationToken)
+2026-02-21T18:27:33.3290729+00:00 xUnit.net INFORMATION         /_/src/Aspire.Hosting/DistributedApplication.cs(483,0): at Aspire.Hosting.DistributedApplication.ExecuteBeforeStartHooksAsync(CancellationToken cancellationToken)
+2026-02-21T18:27:33.3290783+00:00 xUnit.net INFORMATION         /_/src/Aspire.Hosting/DistributedApplication.cs(440,0): at Aspire.Hosting.DistributedApplication.RunAsync(CancellationToken cancellationToken)
+2026-02-21T18:27:33.3372094+00:00 xUnit.net ERROR     OsService.Tests.Integration.ServiceOrders.ServiceOrdersControllerTests.Post_ServiceOrders_WhenCustomerNotFound_Returns404Or500 [FAIL]
+2026-02-21T18:27:33.3372418+00:00 xUnit.net INFORMATION       System.AggregateException : One or more errors occurred. (Property CliPath: The path to the DCP executable used for Aspire orchestration is required.; Property DashboardPath: The path to the Aspire Dashboard binaries is missing.)
+2026-02-21T18:27:33.3372467+00:00 xUnit.net INFORMATION       ---- Microsoft.Extensions.Options.OptionsValidationException : Property CliPath: The path to the DCP executable used for Aspire orchestration is required.; Property DashboardPath: The path to the Aspire Dashboard binaries is missing.
+2026-02-21T18:27:33.3372806+00:00 xUnit.net INFORMATION       Stack Trace:
+2026-02-21T18:27:33.3373084+00:00 xUnit.net INFORMATION            at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+2026-02-21T18:27:33.3373185+00:00 xUnit.net INFORMATION            at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+2026-02-21T18:27:33.3373238+00:00 xUnit.net INFORMATION            at System.Threading.Tasks.Task.Wait()
+2026-02-21T18:27:33.3373369+00:00 xUnit.net INFORMATION         /_/src/Aspire.Hosting/DistributedApplication.cs(471,0): at Aspire.Hosting.DistributedApplication.Run()
+2026-02-21T18:27:33.3373528+00:00 xUnit.net INFORMATION         D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.AppHost\AppHost.cs(12,0): at Program.<Main>$(String[] args)
+2026-02-21T18:27:33.3373592+00:00 xUnit.net INFORMATION            at InvokeStub_Program.<Main>$(Object, Span`1)
+2026-02-21T18:27:33.3373716+00:00 xUnit.net INFORMATION            at System.Reflection.MethodBaseInvoker.InvokeWithOneArg(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+2026-02-21T18:27:33.3373743+00:00 xUnit.net INFORMATION         --- End of stack trace from previous location ---
+2026-02-21T18:27:33.3373859+00:00 xUnit.net INFORMATION            at Microsoft.AspNetCore.Mvc.Testing.DeferredHostBuilder.DeferredHost.StartAsync(CancellationToken cancellationToken)
+2026-02-21T18:27:33.3373943+00:00 xUnit.net INFORMATION            at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Start(IHost host)
+2026-02-21T18:27:33.3374030+00:00 xUnit.net INFORMATION            at Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactory`1.CreateHost(IHostBuilder builder)
+2026-02-21T18:27:33.3374125+00:00 xUnit.net INFORMATION            at Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactory`1.ConfigureHostBuilder(IHostBuilder hostBuilder)
+2026-02-21T18:27:33.3374198+00:00 xUnit.net INFORMATION            at Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactory`1.StartServer()
+2026-02-21T18:27:33.3374329+00:00 xUnit.net INFORMATION            at Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactory`1.CreateDefaultClient(DelegatingHandler[] handlers)
+2026-02-21T18:27:33.3374441+00:00 xUnit.net INFORMATION            at Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactory`1.CreateDefaultClient(Uri baseAddress, DelegatingHandler[] handlers)
+2026-02-21T18:27:33.3374541+00:00 xUnit.net INFORMATION            at Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactory`1.CreateClient(WebApplicationFactoryClientOptions options)
+2026-02-21T18:27:33.3374614+00:00 xUnit.net INFORMATION            at Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactory`1.CreateClient()
+2026-02-21T18:27:33.3374852+00:00 xUnit.net INFORMATION         D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Tests\Integration\ServiceOrders\ServiceOrdersControllerTests.cs(19,0): at OsService.Tests.Integration.ServiceOrders.ServiceOrdersControllerTests..ctor(ApiFactory factory)
+2026-02-21T18:27:33.3374941+00:00 xUnit.net INFORMATION            at InvokeStub_ServiceOrdersControllerTests..ctor(Object, Span`1)
+2026-02-21T18:27:33.3375064+00:00 xUnit.net INFORMATION            at System.Reflection.MethodBaseInvoker.InvokeWithOneArg(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+2026-02-21T18:27:33.3375090+00:00 xUnit.net INFORMATION         ----- Inner Stack Trace -----
+2026-02-21T18:27:33.3375161+00:00 xUnit.net INFORMATION            at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+2026-02-21T18:27:33.3375230+00:00 xUnit.net INFORMATION            at Microsoft.Extensions.Options.UnnamedOptionsManager`1.get_Value()
+2026-02-21T18:27:33.3375331+00:00 xUnit.net INFORMATION         /_/src/Aspire.Hosting/Dcp/DcpNameGenerator.cs(77,0): at Aspire.Hosting.Dcp.DcpNameGenerator.GetExecutableName(IResource project)
+2026-02-21T18:27:33.3375446+00:00 xUnit.net INFORMATION         /_/src/Aspire.Hosting/Dcp/DcpNameGenerator.cs(51,0): at Aspire.Hosting.Dcp.DcpNameGenerator.EnsureDcpInstancesPopulated(IResource resource)
+2026-02-21T18:27:33.3375574+00:00 xUnit.net INFORMATION         /_/src/Aspire.Hosting/BuiltInDistributedApplicationEventSubscriptionHandlers.cs(35,0): at BuiltInDistributedApplicationEventSubscriptionHandlers.InitializeDcpAnnotations(BeforeStartEvent beforeStartEvent, CancellationToken _)
+2026-02-21T18:27:33.3375686+00:00 xUnit.net INFORMATION         /_/src/Aspire.Hosting/Eventing/DistributedApplicationEventing.cs(82,0): at Aspire.Hosting.Eventing.DistributedApplicationEventing.<>c__DisplayClass4_0`1.<<Subscribe>b__0>d.MoveNext()
+2026-02-21T18:27:33.3375716+00:00 xUnit.net INFORMATION         --- End of stack trace from previous location ---
+2026-02-21T18:27:33.3375835+00:00 xUnit.net INFORMATION         /_/src/Aspire.Hosting/Eventing/DistributedApplicationEventing.cs(69,0): at Aspire.Hosting.Eventing.DistributedApplicationEventing.PublishAsync[T](T event, EventDispatchBehavior dispatchBehavior, CancellationToken cancellationToken)
+2026-02-21T18:27:33.3375944+00:00 xUnit.net INFORMATION         /_/src/Aspire.Hosting/DistributedApplication.cs(483,0): at Aspire.Hosting.DistributedApplication.ExecuteBeforeStartHooksAsync(CancellationToken cancellationToken)
+2026-02-21T18:27:33.3376049+00:00 xUnit.net INFORMATION         /_/src/Aspire.Hosting/DistributedApplication.cs(440,0): at Aspire.Hosting.DistributedApplication.RunAsync(CancellationToken cancellationToken)
+2026-02-21T18:27:33.3377837+00:00 xUnit.net ERROR     OsService.Tests.Integration.Customers.CustomersControllerTests.Post_Customers_WhenNameEmpty_Returns400Or500DependingOnHandler [FAIL]
+2026-02-21T18:27:33.3377935+00:00 xUnit.net INFORMATION       System.AggregateException : One or more errors occurred. (Property CliPath: The path to the DCP executable used for Aspire orchestration is required.; Property DashboardPath: The path to the Aspire Dashboard binaries is missing.)
+2026-02-21T18:27:33.3377965+00:00 xUnit.net INFORMATION       ---- Microsoft.Extensions.Options.OptionsValidationException : Property CliPath: The path to the DCP executable used for Aspire orchestration is required.; Property DashboardPath: The path to the Aspire Dashboard binaries is missing.
+2026-02-21T18:27:33.3378230+00:00 xUnit.net INFORMATION       Stack Trace:
+2026-02-21T18:27:33.3378473+00:00 xUnit.net INFORMATION            at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+2026-02-21T18:27:33.3378569+00:00 xUnit.net INFORMATION            at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+2026-02-21T18:27:33.3378622+00:00 xUnit.net INFORMATION            at System.Threading.Tasks.Task.Wait()
+2026-02-21T18:27:33.3378739+00:00 xUnit.net INFORMATION         /_/src/Aspire.Hosting/DistributedApplication.cs(471,0): at Aspire.Hosting.DistributedApplication.Run()
+2026-02-21T18:27:33.3378890+00:00 xUnit.net INFORMATION         D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.AppHost\AppHost.cs(12,0): at Program.<Main>$(String[] args)
+2026-02-21T18:27:33.3378952+00:00 xUnit.net INFORMATION            at InvokeStub_Program.<Main>$(Object, Span`1)
+2026-02-21T18:27:33.3379081+00:00 xUnit.net INFORMATION            at System.Reflection.MethodBaseInvoker.InvokeWithOneArg(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+2026-02-21T18:27:33.3379109+00:00 xUnit.net INFORMATION         --- End of stack trace from previous location ---
+2026-02-21T18:27:33.3379222+00:00 xUnit.net INFORMATION            at Microsoft.AspNetCore.Mvc.Testing.DeferredHostBuilder.DeferredHost.StartAsync(CancellationToken cancellationToken)
+2026-02-21T18:27:33.3379507+00:00 xUnit.net INFORMATION            at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Start(IHost host)
+2026-02-21T18:27:33.3379600+00:00 xUnit.net INFORMATION            at Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactory`1.CreateHost(IHostBuilder builder)
+2026-02-21T18:27:33.3379695+00:00 xUnit.net INFORMATION            at Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactory`1.ConfigureHostBuilder(IHostBuilder hostBuilder)
+2026-02-21T18:27:33.3379802+00:00 xUnit.net INFORMATION            at Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactory`1.StartServer()
+2026-02-21T18:27:33.3379945+00:00 xUnit.net INFORMATION            at Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactory`1.CreateDefaultClient(DelegatingHandler[] handlers)
+2026-02-21T18:27:33.3380053+00:00 xUnit.net INFORMATION            at Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactory`1.CreateDefaultClient(Uri baseAddress, DelegatingHandler[] handlers)
+2026-02-21T18:27:33.3380153+00:00 xUnit.net INFORMATION            at Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactory`1.CreateClient(WebApplicationFactoryClientOptions options)
+2026-02-21T18:27:33.3380228+00:00 xUnit.net INFORMATION            at Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactory`1.CreateClient()
+2026-02-21T18:27:33.3380654+00:00 xUnit.net INFORMATION         D:\YVORE\ControleOrdemDeServico 2\ControleOrdemDeServico 2\ControleOrdemDeServico\ControleOrdemDeServico.Tests\Integration\Customers\CustomersControllerTests.cs(15,0): at OsService.Tests.Integration.Customers.CustomersControllerTests..ctor(ApiFactory factory)
+2026-02-21T18:27:33.3381021+00:00 xUnit.net INFORMATION            at InvokeStub_CustomersControllerTests..ctor(Object, Span`1)
+2026-02-21T18:27:33.3381198+00:00 xUnit.net INFORMATION            at System.Reflection.MethodBaseInvoker.InvokeWithOneArg(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+2026-02-21T18:27:33.3381212+00:00 xUnit.net INFORMATION         ----- Inner Stack Trace -----
+2026-02-21T18:27:33.3381250+00:00 xUnit.net INFORMATION            at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+2026-02-21T18:27:33.3381286+00:00 xUnit.net INFORMATION            at Microsoft.Extensions.Options.UnnamedOptionsManager`1.get_Value()
+2026-02-21T18:27:33.3381421+00:00 xUnit.net INFORMATION         /_/src/Aspire.Hosting/Dcp/DcpNameGenerator.cs(77,0): at Aspire.Hosting.Dcp.DcpNameGenerator.GetExecutableName(IResource project)
+2026-02-21T18:27:33.3381498+00:00 xUnit.net INFORMATION         /_/src/Aspire.Hosting/Dcp/DcpNameGenerator.cs(51,0): at Aspire.Hosting.Dcp.DcpNameGenerator.EnsureDcpInstancesPopulated(IResource resource)
+2026-02-21T18:27:33.3381559+00:00 xUnit.net INFORMATION         /_/src/Aspire.Hosting/BuiltInDistributedApplicationEventSubscriptionHandlers.cs(35,0): at BuiltInDistributedApplicationEventSubscriptionHandlers.InitializeDcpAnnotations(BeforeStartEvent beforeStartEvent, CancellationToken _)
+2026-02-21T18:27:33.3381620+00:00 xUnit.net INFORMATION         /_/src/Aspire.Hosting/Eventing/DistributedApplicationEventing.cs(82,0): at Aspire.Hosting.Eventing.DistributedApplicationEventing.<>c__DisplayClass4_0`1.<<Subscribe>b__0>d.MoveNext()
+2026-02-21T18:27:33.3381630+00:00 xUnit.net INFORMATION         --- End of stack trace from previous location ---
+2026-02-21T18:27:33.3381689+00:00 xUnit.net INFORMATION         /_/src/Aspire.Hosting/Eventing/DistributedApplicationEventing.cs(69,0): at Aspire.Hosting.Eventing.DistributedApplicationEventing.PublishAsync[T](T event, EventDispatchBehavior dispatchBehavior, CancellationToken cancellationToken)
+2026-02-21T18:27:33.3381739+00:00 xUnit.net INFORMATION         /_/src/Aspire.Hosting/DistributedApplication.cs(483,0): at Aspire.Hosting.DistributedApplication.ExecuteBeforeStartHooksAsync(CancellationToken cancellationToken)
+2026-02-21T18:27:33.3381786+00:00 xUnit.net INFORMATION         /_/src/Aspire.Hosting/DistributedApplication.cs(440,0): at Aspire.Hosting.DistributedApplication.RunAsync(CancellationToken cancellationToken)
+2026-02-21T18:27:33.3487201+00:00 xUnit.net INFORMATION   Finished:    OsService.Tests
+2026-02-21T18:27:33.3567367+00:00 xUnit.net INFORMATION === TEST EXECUTION SUMMARY ===
+2026-02-21T18:27:33.3632100+00:00 xUnit.net INFORMATION    OsService.Tests  Total: 13, Errors: 0, Failed: 4, Skipped: 1, Not Run: 0, Time: 0,423s, ID: '3a69e5e3210587dadd903d1ca875c3d79886da11ead3b4ca7b0532561f9b0a39'
