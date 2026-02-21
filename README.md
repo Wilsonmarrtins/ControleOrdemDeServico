@@ -1,192 +1,224 @@
-# Instru��es
+# OsService
 
-- Caso o tempo n�o seja suficiente, priorize a **qualidade, o padr�o e a estrutura do c�digo**, definindo claramente quais funcionalidades n�o ser�o implementadas.
-- Caso alguma funcionalidade n�o seja implementada, isso **deve ser documentado neste README**, explicando o motivo.
-- O c�digo fornecido cont�m **problemas que devem ser identificados e corrigidos**.
-- Fique a vontade para criar, renomear e remover pastas,bibliotecas e at� a solu��o n�o utilizadas.
-- O sistema deve **compilar corretamente e executar todas as a��es previstas**.
-- O c�digo final **n�o deve apresentar erros nem warnings** durante a compila��o.
-- Deve ser enviado via e-mail para consultoria com o link do projeto no Github. 
-- Utilize a extensão do SonarLint para verificar os problemas.
-- Teste de unidade e de integração devem ser feitos utilizando xUnit.
----
+Sistema simples para um prestador de serviços registrar **Clientes**, abrir **Ordens de Serviço**, acompanhar **Status**, registrar **Valor** e (opcionalmente) anexar **fotos antes/depois**.
 
-## 1. Introdu��o
-
-Sistema para um prestador de servi�os (ou pequena equipe) registrar clientes, abrir ordens de servi�o, acompanhar status, registrar valores e anexar fotos de antes/depois do servi�o.
+> Esta solução foi construída com ASP.NET Core + MediatR (CQS) + Dapper + SQL Server e inclui testes **unitários** e **de integração** com xUnit.
 
 ---
 
-## 2. Funcionalidades Detalhadas
+## Sumário
 
-### 2.1 Cadastro de Cliente
-
-#### Objetivo
-Permitir registrar e consultar dados do cliente para vincula��o em Ordens de Servi�o (OS).
-
-#### Campos (m�nimo)
-- Nome (obrigat�rio, 2�150 caracteres)
-- Id (gerado pelo sistema)
-- Telefone (opcional, at� 30 caracteres)
-- E-mail (opcional, at� 120 caracteres, formato v�lido)
-- Documento (CPF/CNPJ) (opcional, at� 30 caracteres, sem valida��o pesada)
-- Data de cria��o (gerado pelo sistema)
-
-#### Regras de Neg�cio
-1. Nome � obrigat�rio e n�o pode conter apenas whitespace.
-2. Telefone e e-mail podem ser nulos; se informados, devem ser trimados.
-3. Opcionalmente, bloquear ou alertar duplicidade por:
-   - Documento (CPF/CNPJ), quando informado
-   - Telefone, quando informado
-
-#### Opera��es
-- Criar cliente
-- Consultar cliente por Id
-- Buscar cliente por telefone ou documento
-
-#### Casos de Teste
-- Criar cliente com nome v�lido retorna 201 Created + id
-- Criar cliente sem nome retorna 400 Validation Error
-- Criar cliente com e-mail inv�lido retorna 400 Validation Error
-- Criar cliente com telefone e buscar retorna dados consistentes
-- Criar cliente com documento duplicado (se regra ativa) retorna 409 Conflict ou 400
+- [Tecnologias](#tecnologias)
+- [Como executar](#como-executar)
+  - [Via Docker Compose (recomendado)](#via-docker-compose-recomendado)
+  - [Local (Visual Studio / CLI)](#local-visual-studio--cli)
+- [Banco de dados](#banco-de-dados)
+  - [Tabelas](#tabelas)
+  - [Criação automática de tabelas](#criação-automática-de-tabelas)
+- [Endpoints](#endpoints)
+- [Testes](#testes)
 
 ---
 
-### 2.2 Abertura de Ordem de Servi�o
+## Tecnologias
 
-#### Objetivo
-Criar uma OS vinculada a um cliente, com descri��o e dados iniciais.
-
-#### Campos (m�nimo)
-- ClienteId (obrigat�rio)
-- Descri��o do servi�o (obrigat�rio, 1�500 caracteres)
-- N�mero da OS (gerado automaticamente, sequencial/identity)
-- Status (inicial = Aberta)
-- Data de abertura (gerado pelo sistema)
-- Valor do servi�o (decimal(18,2)) (opcional no momento da abertura)
-- Moeda (BRL)
-- Data de atualiza��o valor (opcional)
-
-#### Regras de Neg�cio
-1. S� � poss�vel abrir OS para cliente existente.
-2. Descri��o � obrigat�ria.
-3. Status inicial deve ser sempre Aberta.
-4. N�mero da OS deve ser �nico e sequencial.
-5. Regra de neg�cio item 2.4 
-
-#### Opera��es
-- Abrir OS
-- Consultar OS por Id
-- Listar OS por cliente, status ou per�odo
-
-#### Casos de Teste
-- Abrir OS para cliente existente retorna 201 Created
-- Abrir OS para cliente inexistente retorna 404 Not Found
-- Abrir OS com descri��o vazia retorna 400 Bad Request
-- Consultar OS rec�m-criada retorna status Aberta
+- .NET (API)
+- MediatR (CQS)
+- Dapper
+- SQL Server 2022
+- xUnit (unit + integration)
 
 ---
 
-### 2.3 Status da Ordem de Servi�o
+## Como executar
 
-#### Objetivo
-Permitir acompanhar o ciclo do servi�o.
+### Via Docker Compose (recomendado)
 
-#### Estados
-- Aberta
-- Em Execu��o
-- Finalizada
+Pré-requisitos:
+- Docker + Docker Compose
 
-#### Regras de Transi��o
-- Aberta -> Em Execu��o (permitido)
-- Em Execu��o -> Finalizada (permitido)
-- Aberta -> Finalizada (bloqueado)
-- Finalizada -> qualquer outro (bloqueado)
+Suba **banco + API** com um único comando (na raiz do repositório):
 
-#### Opera��es
-- Alterar status
-- Registrar datas opcionais:
-  - StartedAt ao entrar em Em Execu��o
-  - FinishedAt ao entrar em Finalizada
+```bash
+docker compose up --build
+```
 
-#### Casos de Teste
-- Alterar Aberta para Em Execu��o retorna 200 OK
-- Alterar Em Execu��o para Finalizada retorna 200 OK
-- Alterar Finalizada para outro status retorna 409 Conflict
+Quando estiver online:
 
----
+- API: `http://localhost:8080`
+- Swagger: `http://localhost:8080/swagger`
 
-### 2.4 Valor do Servi�o
+> Observação: o `docker-compose.yml` já cria a rede, sobe o SQL Server e só inicia a API depois que o banco estiver **healthy**.  
+> A API recebe a connection string por variável de ambiente (`ConnectionStrings__DefaultConnection`). fileciteturn11file0L22-L35
 
-#### Objetivo
-Permitir definir ou ajustar o valor do servi�o.
+#### Connection string (Docker)
 
-#### Campos
-- Valor (decimal(18,2))
-- Moeda (BRL)
-- Data de atualiza��o (opcional)
+Dentro do container da API, **não use `localhost`** para o banco.
+O host correto é o nome do serviço do compose: `sqlserver`.
 
-#### Regras de Neg�cio
-1. Valor pode ser nulo enquanto Aberta ou Em Execu��o.
-2. Valor pode ser obrigat�rio para finalizar a OS.
-3. Valor n�o pode ser negativo.
-4. Ap�s Finalizada, n�o permitir altera��o.
+Exemplo recomendado (mesma senha do compose):
 
-#### Opera��es
-- Definir ou alterar valor
-- Validar valor ao finalizar OS
+```text
+Server=sqlserver,1433;Database=OsServiceDb;User Id=sa;Password=SqlServer2024!Strong#;TrustServerCertificate=True;Encrypt=False;MultipleActiveResultSets=true;
+```
+
+> No compose atual, o DB configurado está como `Database=OsService` (não `OsServiceDb`). Ajuste para manter consistente com seu `appsettings`. fileciteturn11file0L31-L33
+
+#### Sobre o `docker-compose.override.yml`
+
+Existe um `docker-compose.override.yml` que altera a porta para `5021`. fileciteturn11file2L1-L7  
+Para avaliação, recomenda-se **não depender do override** e manter a porta padrão `8080`.
 
 ---
 
-### 2.5 Fotos Antes / Depois (Opcional)
+### Local (Visual Studio / CLI)
 
-#### Objetivo
-Permitir anexar evid�ncias do servi�o.
+Pré-requisitos:
+- SDK do .NET compatível com o TargetFramework do projeto
+- SQL Server (local ou via Docker)
 
-#### Campos do Anexo
-- Id
-- ServiceOrderId
-- Type (Before | After)
-- FileName
-- ContentType (image/jpeg, image/png)
-- SizeBytes
-- StoragePath
-- UploadedAt
+1) Suba o SQL Server localmente (ou via Docker) na porta 1433.
 
-#### Regras de Neg�cio
-1. Aceitar apenas JPG e PNG.
-2. Tamanho m�ximo sugerido: 5MB.
-3. Permitir m�ltiplos anexos.
-4. Upload local em /data/uploads (container ou volume).
+2) Configure `appsettings.Development.json` (exemplo):
+
+```json
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=localhost,1433;Database=OsServiceDb;User Id=sa;Password=SqlServer2024!Strong#;TrustServerCertificate=True;Encrypt=False;MultipleActiveResultSets=true;",
+    "CreateTable": "Server=localhost,1433;Database=master;User Id=sa;Password=SqlServer2024!Strong#;TrustServerCertificate=True;Encrypt=False;"
+  }
+}
+```
+
+3) Rode a API:
+- Visual Studio: defina `OsService.ApiService` como Startup Project e pressione **F5**
+- CLI:
+```bash
+dotnet run --project src/Apis/OsService.ApiService
+```
 
 ---
 
-## 3. API Sugerida
+## Banco de dados
+
+### Tabelas
+
+A aplicação utiliza (no mínimo) as tabelas abaixo:
+
+#### `dbo.Customers`
+
+- `Id` (PK, uniqueidentifier, not null)
+- `Name` (nvarchar(150), not null)
+- `Phone` (nvarchar(30), null)
+- `Email` (nvarchar(120), null)
+- `Document` (nvarchar(30), null)
+- `CreatedAt` (datetime2(7), not null)
+
+Índices:
+- `IX_Customers_Phone` (Phone)
+- `IX_Customers_Document` (Document)
+
+#### `dbo.ServiceOrders`
+
+- `Id` (PK, uniqueidentifier, not null)
+- `Number` (identity, unique, inicia em 1000)
+- `CustomerId` (FK → Customers.Id)
+- `Description` (nvarchar(500), not null)
+- `Status` (int, not null)
+- `OpenedAt` (datetime2, not null)
+- `Price` (decimal(18,2), null)
+- `Coin` (varchar(4), null)
+- `UpdatedPriceAt` (datetime, null)
+
+Índices:
+- `UX_ServiceOrders_Number` (unique)
+- `IX_ServiceOrders_CustomerId`
+
+#### `dbo.ServiceOrderAttachments` (opcional)
+
+- `Id` (PK, uniqueidentifier, not null)
+- `ServiceOrderId` (FK → ServiceOrders.Id)
+- `Type` (int, not null) — ex.: Before/After
+- `FileName` (nvarchar(255), not null)
+- `ContentType` (nvarchar(100), not null)
+- `SizeBytes` (bigint, not null)
+- `StoragePath` (nvarchar(500), not null)
+- `UploadedAt` (datetime2(7), not null)
+
+> Se você habilitou attachments, o upload é salvo localmente em `/data/uploads` (ideal usar volume no Docker). fileciteturn11file7L18-L37
+
+---
+
+### Criação automática de tabelas
+
+Existe um componente `DatabaseGenerantor` (Dapper) com SQL idempotente para criar tabelas se não existirem:
+
+- Cria `dbo.Customers`
+- Cria `dbo.ServiceOrders`
+
+Exemplo (trecho):
+
+```csharp
+public class DatabaseGenerantor(IDefaultSqlConnectionFactory factory)
+{
+    public async Task CreateIfNotExistsAsync()
+    {
+        using var conn = factory.Create();
+        await conn.ExecuteAsync(CreateTablesSql);
+    }
+}
+```
+
+#### Como garantir que as tabelas sejam criadas ao subir a API
+
+Se a sua API **já** chama o `DatabaseGenerantor` no startup, não é necessário fazer nada.
+
+Se ainda **não** estiver chamando, adicione no `Program.cs` (após `var app = builder.Build();`):
+
+```csharp
+using (var scope = app.Services.CreateScope())
+{
+    var db = scope.ServiceProvider.GetRequiredService<DatabaseGenerantor>();
+    await db.CreateIfNotExistsAsync();
+}
+```
+
+Isso facilita o uso em avaliação (principalmente via Docker), pois o schema é criado automaticamente.
+
+---
+
+## Endpoints
 
 ### Clientes
-- POST /v1/customers
-- GET /v1/customers/{id}
+- `POST /v1/customers`
+- `GET /v1/customers/{id}`
+- `GET /v1/customers/search?phone=...` (se implementado)
+- `GET /v1/customers/search?document=...` (se implementado)
 
-### Ordens de Servi�o
-- POST /v1/service-orders
-- GET /v1/service-orders/{id}
-- PATCH /v1/service-orders/{id}/status
-- PUT /v1/service-orders/{id}/price
-- POST /v1/service-orders/{id}/attachments/before
-- POST /v1/service-orders/{id}/attachments/after
-- GET /v1/service-orders/{id}/attachments
+### Ordens de Serviço
+- `POST /v1/service-orders`
+- `GET /v1/service-orders/{id}`
+- `PATCH /v1/service-orders/{id}/status`
+- `PUT /v1/service-orders/{id}/price`
+
+### Attachments (opcional)
+- `POST /v1/service-orders/{id}/attachments/before`
+- `POST /v1/service-orders/{id}/attachments/after`
+- `GET /v1/service-orders/{id}/attachments`
+
+> A lista completa e exemplos de payloads podem ser consultados no Swagger.
 
 ---
 
-## 4. Requisitos N�o Funcionais (Opcional)
+## Testes
 
-### Performance
-- Upload deve ser feito via streaming, evitando carregar todo o arquivo em mem�ria.
+Rodar todos os testes:
 
-### Seguran�a
-- Validar content-type e extens�o real do arquivo.
-- Sanitizar nome do arquivo.
+```bash
+dotnet test
+```
 
-### Observabilidade
-- Registrar logs para cria��o de cliente, abertura de OS e mudan�a de status.
+- Unit tests: `OsService.Tests`
+- Integration tests: utilizam `WebApplicationFactory` e acessam a API via `HttpClient`
+
+---
